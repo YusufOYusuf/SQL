@@ -56,9 +56,33 @@ On the top right click the "create a new SQL tab" to start a new file: <br/>
   
   
 <p align="center">
-On the top right click the "create a new SQL tab" to start a new file: <br/>
-<img src="https://i.postimg.cc/kgtkZj1g/Screen-Shot-2022-09-01-at-11-49-07-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+Tap the file menu and load the particular dataset and load onto the MySQLWorkbench: <br/>
+<img src="https://i.postimg.cc/mrB9cgnf/Screen-Shot-2022-09-01-at-11-52-50-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />  
+  
+  
+  
+  
+<p align="center">
+Now select the schema in which you wish to download the data into and the click the lightning bolt to run the data. The green check marks show that the data is successfully uploaded: <br/>
+<img src="https://i.postimg.cc/SR6Dw7g2/Screen-Shot-2022-09-02-at-12-03-12-AM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<br />    
+  
+  
+  
+  
+<p align="center">
+Open up a new sql file and run your scripts to extract data from the data sets: <br/>
+<img src="" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<br />    
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
