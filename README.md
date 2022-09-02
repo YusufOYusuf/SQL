@@ -72,15 +72,19 @@ Now select the schema in which you wish to download the data into and the click 
   
   
 <p align="center">
-Open up a new sql file and run your scripts to extract data from the data sets: <br/>
-<img src="" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+In this Script I wanted to extract some data using rudimentary sql: <br/>
+<img src="https://i.postimg.cc/gkmtFQ8g/Screen-Shot-2022-09-02-at-12-08-52-AM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />    
   
   
   
   
   
-  
+ <p align="center">
+Here is another script using a simple Join to extract data: <br/>
+<img src="https://i.postimg.cc/RZfTWT7W/Screen-Shot-2022-09-02-at-12-11-39-AM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<br />    
+   
   
   
   
