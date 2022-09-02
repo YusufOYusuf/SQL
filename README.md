@@ -15,9 +15,59 @@ In this project,I Created a few practice scripts using a basic college dataset. 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-: <br/>
-<img src="" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+The first thing I did was start up XAMPP which is a free open sourced web server to host my database.: <br/>
+<img src="https://i.postimg.cc/d1fKDJvR/Screen-Shot-2022-09-01-at-10-00-03-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
 <br />
+  
+  
+  
+<p align="center">
+Next I Opened up MySQLWorkbench and connected it to XAMPP: <br/>
+<img src="https://i.postimg.cc/pL17SVTM/Screen-Shot-2022-09-01-at-10-07-57-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<br />  
+  
+  
+  
+  
+<p align="center">
+I tap the "Create a new schema in the connected server", top left, and then I name the new schema the tap apply (bottom left): <br/>
+<img src="https://i.postimg.cc/cH4vJNYh/Screen-Shot-2022-09-01-at-11-44-43-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<br />   
+  
+  
+  
+  
+  
+ <p align="center">
+Click apply in the pop up window and then click close: <br/>
+<img src="https://i.postimg.cc/YqxHqmr6/Screen-Shot-2022-09-01-at-11-48-25-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<br />  
+  
+  
+  
+  
+   
+  <p align="center">
+On the top right click the "create a new SQL tab" to start a new file: <br/>
+<img src="https://i.postimg.cc/kgtkZj1g/Screen-Shot-2022-09-01-at-11-49-07-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<br />  
+  
+  
+  
+  
+<p align="center">
+On the top right click the "create a new SQL tab" to start a new file: <br/>
+<img src="https://i.postimg.cc/kgtkZj1g/Screen-Shot-2022-09-01-at-11-49-07-PM.png" height="80%" width="80%" alt="Configuring Advanced Ethernet Options Steps"/>
+<br />  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
 
